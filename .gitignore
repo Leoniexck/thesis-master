@@ -1,0 +1,42 @@
+## LaTeX - Hilfsdateien (Temporäre Dateien)
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdfsync
+
+## Bibliographie-Hilfsdateien
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+## Indizes und Glossare
+*.glo
+*.idx
+*.ist
+*.log
+*.acn
+*.acr
+*.alg
+*.glg
+*.gls
+*.ilg
+*.ind
+
+## Sonstiges (z.B. Tabellenverzeichnisse, Abbildungsverzeichnisse)
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc0
+*.nav
+*.snm
+*.vrb
+
+## Betriebssystem-Dateien
+.DS_Store
+Thumbs.db
